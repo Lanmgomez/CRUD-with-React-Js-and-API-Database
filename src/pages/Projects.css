@@ -1,0 +1,20 @@
+.divProjects {
+    display: flex;
+    width: 90%;
+    height: 90%;
+    border: 1px solid #000;
+    background-color: #cecece;
+}
+
+.divProjects ul {
+    width: 300px;
+    height: 270px;
+    border: 1px solid #000;
+}
+
+.divProjects li {
+    text-indent: 15px;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}
